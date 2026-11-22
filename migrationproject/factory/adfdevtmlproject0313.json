@@ -1,0 +1,16 @@
+{
+	"name": "adfdevtmlproject0313",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ab446338-3618-430e-ae00-efcd478cee6f",
+		"tenantId": "3ef75260-491f-4173-8181-ae3cc63c9d64"
+	}
+}
